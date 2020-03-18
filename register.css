@@ -1,0 +1,31 @@
+.box{
+  background-color:#DDDDDD;
+  width:300px;
+  height:400px;
+  margin:10px auto;
+}
+label{
+  font-size: small;
+  margin-left:50px
+}
+.lp{
+  margin-left:12px
+}
+.ts{
+  width:160px;
+  height:22px;
+  margin-left:92px;
+  display: inline-block;
+  font-size: x-small;
+  color:red
+}
+.btn{
+  margin: 50px 129px 50px
+}
+.te{
+  width:70px
+}
+.req{
+  width:80px;
+}
+
